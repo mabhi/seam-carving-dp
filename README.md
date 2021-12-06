@@ -25,10 +25,6 @@ Setup
 
 1. Now you should be able to implement and run the code as explained at the top of each exercise file.
 
-Solutions
----------
-
-If you get stuck or just want to compare your solution with another implementation, all the files are present in the `solutions` folder. You can run the same commands in that folder (adjusting the filenames of the input images).
 
 Image credits
 -------------
